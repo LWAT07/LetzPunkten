@@ -1,4 +1,4 @@
-#--------------LëtzPunkten--------------
+# --------------LëtzPunkten--------------
 
 Welcome to my project, where I built an app to save the grades of your exams in Luxembourgish shool system.
 
@@ -14,8 +14,6 @@ Welcome to my project, where I built an app to save the grades of your exams in 
 
 # What will be done?
     closing dialogs on enter button
-# Fixes?
-    select location for custom class File
 
 # DeveDeveloped and maintained by
  - Leo Watgen <watgen.leo@gmail.com>
