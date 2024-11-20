@@ -1,9 +1,9 @@
---------------LëtzPunkten--------------
+#--------------LëtzPunkten--------------
 
-Welcome to my project, where I built an app to save the grades of your exams in Luxembourgish shool system.
+#Welcome to my project, where I built an app to save the grades of your exams in Luxembourgish shool system.
 
-What is LëtzPunkten?
-    LëtzPunkten is an app made in Java with the javax.swing library it was entirely made with Microsofts Visual Studio Code. To save the files I used Googles Gson library
+#What is LëtzPunkten?
+LëtzPunkten is an app made in Java with the javax.swing library it was entirely made with Microsofts Visual Studio Code. To save the files I used Googles Gson library
 
 How does it works?
     First you need to create a file with all the information of your subjects and coefficients all the subjects. You can create this . json file directly inside of the app in the left menu. If you aleready have a classFile for your specific class you can import the file with presing "Select Class File", you can now select your .json file. The app automaticiy calculates all of your averages so that you always know where to improve. All of your Data is saved in that same .json file.
