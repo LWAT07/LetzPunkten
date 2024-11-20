@@ -1,8 +1,8 @@
-#--------------LëtzPunkten--------------
+--------------LëtzPunkten--------------
 
-#Welcome to my project, where I built an app to save the grades of your exams in Luxembourgish shool system.
+Welcome to my project, where I built an app to save the grades of your exams in Luxembourgish shool system.
 
-#What is LëtzPunkten?
+What is LëtzPunkten?
 LëtzPunkten is an app made in Java with the javax.swing library it was entirely made with Microsofts Visual Studio Code. To save the files I used Googles Gson library
 
 How does it works?
