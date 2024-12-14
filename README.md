@@ -1,26 +1,36 @@
---------------LëtzPunkten--------------
+# --------------LëtzPunkten--------------
 
-Welcome to my project, where I built an app to save the grades of your exams in Luxembourgish shool system.
+# Welcome to my project, where I built an app to save the grades of your exams in Luxembourgish shool system.
 
-What is LëtzPunkten?
+# What is LëtzPunkten?
 LëtzPunkten is an app made in Java with the javax.swing library it was entirely made with Microsofts Visual Studio Code. To save the files I used Googles Gson library
 
-How does it works?
-    First you need to create a file with all the information of your subjects and coefficients all the subjects. You can create this . json file directly inside of the app in the left menu. If you aleready have a classFile for your specific class you can import the file with presing "Select Class File", you can now select your .json file. The app automaticiy calculates all of your averages so that you always know where to improve. All of your Data is saved in that same .json file.
-    You can even configure "Mathe I" and "Mathe II" in higher classes in the Luxembourgish school system. 
+# How does it works?
+First you need to create a file with all the information of your subjects and coefficients all the subjects. You can create this . json file directly inside of the app in the left menu. If you aleready have a classFile for your specific class you can import the file with presing "Select Class File", you can now select your .json file. The app automaticiy calculates all of your averages so that you always know where to improve. All of your Data is saved in that same .json file.
+You can even configure "Mathe I" and "Mathe II" in higher classes in the Luxembourgish school system. 
 
-How to install?
-    Simply open installer an follow the step of teh installation wizard
+# How to install?
+Simply open installer an follow the step of teh installation wizard, then go to the programm files folder and open the app.
 
-What will be done?
-    closing dialogs on enter button
-Fixes?
-    select location for custom class File
+# What was Done?
+Cursor in the create exam and edit exam dialog is directly set to the grade text field
+when creating a classfile, you can now directly go to the next label with the enter button
+while changing the classfile, examdata was being transfered between files (niw it is fixed)
+Allowed to use big class names with propper resizing
+Subjectframe is now always fully visible if it is in the top left corner
+Scrollpane where exams are saved
+It is now guaranteed that the app will launch inside of the bounds of the screen
+Classes are sorted in packages 
+While creating a class file, subjects can be edited after they have been created.
 
-DeveDeveloped and maintained by
+
+# To-Do?
+ - Dark mode and changing colors
+
+# DeveDeveloped and maintained by
  - Leo Watgen <watgen.leo@gmail.com>
 
- MIT License
+MIT License
 
 Copyright (c) [2024] [Leo Watgen]
 
