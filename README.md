@@ -27,7 +27,7 @@ While creating a class file, subjects can be edited after they have been created
 # To-Do?
  - Dark mode and changing colors
 
-# DeveDeveloped and maintained by
+# DeveDeveloped and maintained by:
  - Leo Watgen <watgen.leo@gmail.com>
 
 MIT License
