@@ -5,6 +5,9 @@
 # What is LëtzPunkten?
 LëtzPunkten is an app made in Java with the javax.swing library it was entirely made with Microsofts Visual Studio Code. To save the files I used Googles Gson library
 
+# Important to know:
+The system uses a while true loop to determine waether the window is resized, therefore it drains the battery very quickly if the programm is open in the background
+
 # How does it work?
 First you need to create a file with all the information of your subjects and coefficients of all the subjects. You can create this . json file directly inside of the app in the left menu. If you aleready have a classFile for your specific class you can import the file with presing "Select Class File", you can now select your .json file. The app automaticiy calculates all of your averages so that you always know where to improve. All of your Data is saved in that same .json file.
 You can even configure "Mathe I" and "Mathe II" in higher classes in the Luxembourgish school system. 
@@ -52,3 +55,4 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 
 SOFTWARE.
+
